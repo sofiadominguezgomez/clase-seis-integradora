@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clase-seis-integradora/static/css/main.23c4c47f.css",
+    "main.js": "/clase-seis-integradora/static/js/main.013504ad.js",
+    "index.html": "/clase-seis-integradora/index.html",
+    "main.23c4c47f.css.map": "/clase-seis-integradora/static/css/main.23c4c47f.css.map",
+    "main.013504ad.js.map": "/clase-seis-integradora/static/js/main.013504ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c4c47f.css",
+    "static/js/main.013504ad.js"
+  ]
+}
