@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+h3 {
+  background-color: pink;
+}
+
+li {
+  list-style-type: circle;
+}
+
+.invitados {
+  display: flex;
+  flex-flow: column;
+  border: 2px solid grey;
+  gap: 1rem;
+  margin: 3rem auto;
+  width: 80%;
+}
+
+.tareas {
+  display: flex;
+  flex-flow: column;
+  border: 2px solid grey;
+  gap: 1rem;
+  margin: 3rem auto;
+  width: 80%;
+}
